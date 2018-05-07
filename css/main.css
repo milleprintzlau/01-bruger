@@ -23,6 +23,11 @@ body{
     height: 500px;
 }
 
+#brugerobservationer object {
+       width: 100vw;
+    height: 500px;
+}
+
 /* Navigation */
 nav ul{
   display: flex;
