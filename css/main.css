@@ -19,7 +19,7 @@ body{
 }
 
 #app object {
-       width: 50vw;
+       width: 100vw;
     height: 500px;
 }
 
@@ -27,6 +27,23 @@ body{
        width: 100vw;
     height: 500px;
 }
+
+#interview object {
+       width: 100vw;
+    height: 300px;
+}
+
+#experience_map object {
+       width: 100vw;
+    height: 1000px;
+}
+
+#posters object {
+       width: 100vw;
+    height: 1000px;
+}
+
+
 
 /* Navigation */
 nav ul{
