@@ -19,30 +19,24 @@ body{
 }
 
 #app object {
-       width: 100vw;
+       width: 60vw;
     height: 500px;
 }
 
 #brugerobservationer object {
-       width: 100vw;
+       width: 80vw;
     height: 500px;
 }
 
 #interview object {
-       width: 100vw;
-    height: 300px;
+       width: 80vw;
+    height: 500px;
 }
 
 #experience_map object {
-       width: 100vw;
-    height: 1000px;
+       width: 80vw;
+    height: 500px;
 }
-
-#posters object {
-       width: 100vw;
-    height: 1000px;
-}
-
 
 
 /* Navigation */
