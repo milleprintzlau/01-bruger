@@ -38,6 +38,11 @@ body{
     height: 500px;
 }
 
+#storyboard object {
+       width: 80vw;
+    height: 500px;
+}
+
 
 /* Navigation */
 nav ul{
